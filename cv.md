@@ -51,7 +51,7 @@ LLP "Business and Technology Services" - 05.10.2022 - present
      3. Communication for data collection 
      4. System testing (manual)
 
-    ---
+---
 
 ### **Education:**
 
@@ -61,7 +61,7 @@ LLP "Business and Technology Services" - 05.10.2022 - present
 *2022* - Institute of Bioinformatics:
 - Python Language
 
-  ---
+---
 
 ### **Languages:**
 
